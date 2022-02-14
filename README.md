@@ -40,7 +40,7 @@
 
 ## Start-up:
 
-1. Navigate to the "src" folder, run the `presser.bat` file.
+1. Navigate to the "src" folder, run the `deadline.bat` file.
 
 # Disclaimer
 
