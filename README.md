@@ -8,7 +8,7 @@
 6. `Delete All Emojis`
 7. `Ban All Members`
 8. `Kick All Members`
-9. `Delete All Stickers` **(NEW)**
+9. `Delete All Stickers`
 
 # Requirements Before Set-up:
 
